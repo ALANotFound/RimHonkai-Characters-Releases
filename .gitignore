@@ -1,0 +1,6 @@
+# 安装包作为GitHub Releases附件上传
+*.zip
+*.7z
+*.tar.gz
+.DS_Store
+Thumbs.db
